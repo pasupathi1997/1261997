@@ -6,5 +6,8 @@ public class S {
 System.out.println("sadwd");
 
 }
+	private void rickj() {
+System.out.println("rikcj");
+	}
 
 }
