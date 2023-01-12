@@ -6,5 +6,7 @@ public class S {
 System.out.println("sadwd");
 
 }
-
+private void sysou() {
+System.out.println("vijay");
+}
 }
