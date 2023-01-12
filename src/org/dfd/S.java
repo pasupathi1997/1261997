@@ -5,9 +5,15 @@ public class S {
 		// TODO Auto-generated method stub
 System.out.println("sadwd");
 
+
 }
 	private void rickj() {
 System.out.println("rikcj");
+
+}
+	private void code() {
+System.out.println("code pasupathi");
+
 	}
 
 }
